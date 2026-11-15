@@ -29,13 +29,12 @@ print("Array 3:", array3)
 
 # TODO 3: Create array4 according to instructions given in README.md file.
 # - Write code to create a 3D matrix of shape 2x3x2 and initialize with month names.  
-array4 = np.array = ([
+array4 = np.array([
     [
         ["Januray", "February"],
         ["March", "April"],
         ["May", "June"]
     ],
-
     [
         ["July","August"],
         ["September","October"],
